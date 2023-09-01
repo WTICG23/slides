@@ -1,9 +1,9 @@
-# WTICG23: Exemplos de Slides
+# WTICG23: Dicas e Exemplos de Slides
 
-Este repositório contém uma lista de exemplos de slides / apresentações. Há arquivos PDF, PPTX e/ou link para slides no Google Drive (faça uma cópia e edite rapidamente no seu Google Drive! ;-))
+Este repositório contém **dicas para uma boa apresentação** e **uma lista de exemplos de slides** / apresentações. Há arquivos PDF, PPTX e/ou link para slides no Google Drive (faça uma cópia e edite rapidamente no seu Google Drive! ;-))
 . Os exemplos podem ser copiados e utilizados livremente pelos autores do WTICG23!
 
-# Dicas para uma **boa** apresentação
+# Dicas para uma **boa apresentação**
 
 - utilize slides clean, preferencialmente com **fundo branco** e **texto preto**;
 - gaste seu tempo e energia na **qualificação do conteúdo** dos slides;
@@ -20,8 +20,9 @@ Este repositório contém uma lista de exemplos de slides / apresentações. Há
 - destaque adequadamente os pontos mais relevantes dos gráficos que você irá explicar em cada slide;
 - olhe e aproveite bons exemplos de outras apresentações! ;-)
 
-# Relação de Exemplos
+# Exemplos de Slides 
 
+Copie, adapte e apreveite bons exemplos! ;-)
 
 -----------------------------------------------------------------------
 
