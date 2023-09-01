@@ -16,7 +16,7 @@ do
     NAME=$(basename $FILE .pdf)
     if [ -f arquivos/$NAME.txt ]
     then
-        echo "[[Online no Google Drive] $NAME]($(cat arquivos/$NAME.txt))"
+        echo "[[Online no Google Drive] $NAME]($(cat arquivos/$NAME.txt))(faça uma cópia e edite no seu Google Drive! ;-))"
     elif [ -f arquivos/$NAME.pptx ]
     then
         echo "[[PPTX] $NAME.pptx]($URL/arquivos/$NAME.pptx)"
