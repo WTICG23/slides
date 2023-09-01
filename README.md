@@ -7,18 +7,6 @@ Este repositório contém uma lista de exemplos de slides / apresentações. Há
 
 -----------------------------------------------------------------------
 
-[[PDF] PPGES_MF_DefesaM_GerenciamentoDeFirewallsEmRedesHibridas.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/PPGES_MF_DefesaM_GerenciamentoDeFirewallsEmRedesHibridas.pdf)
-
-[[Google Drive] PPGES_MF_DefesaM_GerenciamentoDeFirewallsEmRedesHibridas](https://docs.google.com/presentation/d/1vpbHKXoTyxZB1E6U5lR6BAUd32B_lqaEa-VRwqBkb74/edit?usp=sharing)
-
------------------------------------------------------------------------
-
-[[PDF] PRDC2014_SD_AAIs_slides.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/PRDC2014_SD_AAIs_slides.pdf)
-
-[[PPTX] PRDC2014_SD_AAIs_slides](https://github.com/WTICG23/slides/blob/main/arquivos/PRDC2014_SD_AAIs_slides.pptx)
-
------------------------------------------------------------------------
-
 [[PDF] SBRC2020_HTTPS_BR_slides.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/SBRC2020_HTTPS_BR_slides.pdf)
 
 [[Google Drive] SBRC2020_HTTPS_BR_slides](https://docs.google.com/presentation/d/1QsYGWj9HR1miHT3XRNZ_pjNl_Q1257fx0LaQ-Dyk0Bk/edit?usp=sharing)
@@ -64,11 +52,6 @@ Este repositório contém uma lista de exemplos de slides / apresentações. Há
 [[PDF] SBSeg2022_TP_Metodos.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/SBSeg2022_TP_Metodos.pdf)
 
 [[Google Drive] SBSeg2022_TP_Metodos](https://docs.google.com/presentation/d/1pKAk12QZ1jjD8JzGmiyjJ4oXFR4K4wBQgt8YzV6107Y/edit?usp=sharing)
-
------------------------------------------------------------------------
-
-[[PDF] TCC2018_jomc_Monero_slides.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/TCC2018_jomc_Monero_slides.pdf)
-
 
 -----------------------------------------------------------------------
 
