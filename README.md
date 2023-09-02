@@ -18,6 +18,7 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 - destaque as partes das imagens que você irá explicar em cada slide;
 - utilize técnicas simples para apresentar imagens de forma gradual e progressiva (e.g., um retângulo branco para cobrir partes da imagem que não serão explicadas no slide atual);
 - destaque adequadamente os pontos mais relevantes dos gráficos que você irá explicar em cada slide;
+- visualize a sua apresentação no seu celular a 50cm de distância. Se tudo estiver facilmente legível e compreensível, seus slides estão bem preparados para apresentação em diferentes ambientes e contextos;
 - olhe e aproveite bons exemplos de outras apresentações! ;-)
 
 # Exemplos de Slides 
