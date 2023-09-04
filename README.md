@@ -12,7 +12,7 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 - utilize os **slides** apenas como um **guia** para a sua mente e fala;
 - faça diversas **iterações de melhoramento e evolução** dos slides. Assim como um bom texto, uma boa apresentação demanda trabalho e ciclos de evolução e melhoramento;
 - olhe e **aproveite bons exemplos** de outras apresentações! ;-) veja os exemplos apresentados no final deste documento;
-- experimente **fugir do clássico** e padrão! ;-) slides / apresentações podem **iniciar com uma ótima motivação e problemática**, isto é, não é necessário iniciar com o clássico slide de roteiro. Muitas vezes, a apresentação fica melhor e mais fluída iniciando imediatamente com a motivação e a caracterização do problema. Veja alguns bons exemplos no final deste documento. ;-)
+- experimente **fugir do clássico** e padrão! ;-) slides / apresentações podem **iniciar com uma ótima motivação e problemática**, isto é, não é necessário iniciar com o clássico slide de roteiro. Muitas vezes, a apresentação fica melhor e mais fluída iniciando imediatamente com a motivação e a caracterização do problema. Veja alguns exemplos no final deste documento. ;-)
 
 ## Dicas de conteúdo
 - **evite texto**, como parágrafos e frases;
