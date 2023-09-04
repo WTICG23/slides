@@ -10,11 +10,17 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 - utilize slides clean, preferencialmente com **fundo branco** e **texto preto**;
 - gaste seu tempo e energia na **qualificação do conteúdo** dos slides;
 - utilize os slides apenas como um guia para a sua mente e fala;
-- olhe e **aproveite bons exemplos** de outras apresentações! ;-) veja os exemplos apresentados no final deste documento.
+- faça diversas iterações de melhoramento e evolução dos slides
+- olhe e **aproveite bons exemplos** de outras apresentações! ;-) veja os exemplos apresentados no final deste documento;
+- experimente **fugir do clássico** e padrão! ;-) slides / apresentações podem **iniciar com uma ótima motivação e problemática**, isto é, não é necessário iniciar com o clássico slide de roteiro. Muitas vezes, a apresentação fica melhor e mais fluída iniciando imediatamente com a motivação e o problema. Veja alguns bons exemplos no final deste documento. ;-)
 
 ## Dicas de conteúdo
-- **evite texto**, como parágrafos e frases - utilize itens curtos, de poucas palavras;
-- utilize **fontes grandes** (preferencialmente **24pt ou mais no conteúdo** dos slides, imagens e tabelas);
+- **evite texto**, como parágrafos e frases;
+    - utilize itens curtos, de poucas palavras;
+    - os itens são tipicamente apenas um guia para a fala;
+- utilize **fontes grandes** 
+    - preferencialmente **24pt ou mais no conteúdo** dos slides, imagens e tabelas;
+    - títulos dos slides com 32pt ou mais; 
 - utilize sempre que possível **boas imagens**, isto é, imagens significativas, representativas e de **boa qualidade**;
 - inclua preferencialmente apenas **imagens vetoriais** ou de **alta definição** (e.g., SVG, PNG, PDF);
 - reconstrua as tabelas do texto e apresente **tabelas de alta qualidade** e fácil visualização;
@@ -23,6 +29,8 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
     - **destaque as partes das imagens** que você irá explicar em cada slide;
 - utilize técnicas simples para **apresentar imagens de forma gradual e progressiva** (e.g., um retângulo branco para cobrir partes da imagem que não serão explicadas no slide atual);
 - **destaque** adequadamente os **pontos mais relevantes dos gráficos** que você irá explicar em cada slide;
+- não é obrigatório ter título em todos os slides (e.g., eventualmente, é mais interessante aumentar o tamanho da imagem ou da tabela, ocupando todo o espaço disponível no slide);
+    - ótima apresentação e visualização das imagens e tabelas é mais importante que um título no slide;
 
 ## Dicas de preparação
 - **visualize** a sua apresentação **no seu celular** a 50cm de distância;
