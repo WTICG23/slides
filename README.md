@@ -17,20 +17,21 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 ## Dicas de conteúdo
 - **evite texto**, como parágrafos e frases;
     - utilize itens curtos, de poucas palavras;
-    - os itens são tipicamente apenas um guia para a fala;
+    - os itens são tipicamente apenas um guia para a sua fala;
 - utilize **fontes grandes** 
     - preferencialmente **24pt ou mais no conteúdo** dos slides, imagens e tabelas;
-    - títulos dos slides com 32pt ou mais; 
+    - procure utilizar títulos com 32pt ou mais nos slides; 
 - utilize sempre que possível **boas imagens**, isto é, imagens significativas, representativas e de **boa qualidade**;
 - inclua preferencialmente apenas **imagens vetoriais** ou de **alta definição** (e.g., SVG, PNG, PDF);
 - reconstrua as tabelas do texto e apresente **tabelas de alta qualidade** e fácil visualização;
 - apresente tabelas e imagens **de forma progressiva** nos slides;<br>
     - **destaque colunas ou linhas da tabela** que você irá explicar em cada slide;<br>
     - **destaque as partes das imagens** que você irá explicar em cada slide;
-- utilize técnicas simples para **apresentar imagens de forma gradual e progressiva** (e.g., um retângulo branco para cobrir partes da imagem que não serão explicadas no slide atual);
+- utilize técnicas simples para **apresentar imagens de forma gradual e progressiva** (e.g., um retângulo branco para cobrir partes da imagem que serão explicadas nos slides seguintes);
 - **destaque** adequadamente os **pontos mais relevantes dos gráficos** que você irá explicar em cada slide;
 - não é obrigatório ter título em todos os slides (e.g., eventualmente, é mais interessante aumentar o tamanho da imagem ou da tabela, ocupando todo o espaço disponível no slide);
     - ótima apresentação e visualização das imagens e tabelas é mais importante que um título no slide;
+- **evite poluir o slide**, isto é, muito conteúdo (e.g., muito texto ou imagem/tabela complexa). Por exemplo, uma imagem complexa, apresentada em um único slide, pode dificultar a atenção e o acompanhamento da explicação por parte do público. É muito importante selecionar o conteúdo que será apresentado em cada slide. Menos conteúdo e/ou um bom destaque do que está sendo explicado é geralmente melhor.
 
 ## Dicas de preparação
 - **visualize** a sua apresentação **no seu celular** a 50cm de distância;
