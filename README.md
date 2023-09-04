@@ -17,9 +17,9 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 - utilize sempre que possível **boas imagens**, isto é, imagens significativas, representativas e de **boa qualidade**;
 - inclua preferencialmente apenas **imagens vetoriais** ou de **alta definição** (e.g., SVG, PNG, PDF);
 - reconstrua as tabelas do texto e apresente **tabelas de alta qualidade** e fácil visualização;
-- apresente tabelas e imagens **de forma progressiva** nos slides;
--- destaque colunas ou linhas da tabela que você irá explicar em cada slide;
--- destaque as partes das imagens que você irá explicar em cada slide;
+- apresente tabelas e imagens **de forma progressiva** nos slides;<br>
+    - destaque colunas ou linhas da tabela que você irá explicar em cada slide;<br>
+    - destaque as partes das imagens que você irá explicar em cada slide;
 - utilize técnicas simples para apresentar imagens de forma gradual e progressiva (e.g., um retângulo branco para cobrir partes da imagem que não serão explicadas no slide atual);
 - destaque adequadamente os pontos mais relevantes dos gráficos que você irá explicar em cada slide;
 - olhe e aproveite bons exemplos de outras apresentações! ;-)
