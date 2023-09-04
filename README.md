@@ -10,6 +10,7 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 - utilize slides clean, preferencialmente com **fundo branco** e **texto preto**;
 - gaste seu tempo e energia na **qualificação do conteúdo** dos slides;
 - utilize os slides apenas como um guia para a sua mente e fala;
+- olhe e **aproveite bons exemplos** de outras apresentações! ;-) veja os exemplos apresentados no final deste documento.
 
 ## Dicas de conteúdo
 - **evite texto**, como parágrafos e frases - utilize itens curtos, de poucas palavras;
@@ -18,14 +19,16 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 - inclua preferencialmente apenas **imagens vetoriais** ou de **alta definição** (e.g., SVG, PNG, PDF);
 - reconstrua as tabelas do texto e apresente **tabelas de alta qualidade** e fácil visualização;
 - apresente tabelas e imagens **de forma progressiva** nos slides;<br>
-    - destaque colunas ou linhas da tabela que você irá explicar em cada slide;<br>
-    - destaque as partes das imagens que você irá explicar em cada slide;
-- utilize técnicas simples para apresentar imagens de forma gradual e progressiva (e.g., um retângulo branco para cobrir partes da imagem que não serão explicadas no slide atual);
-- destaque adequadamente os pontos mais relevantes dos gráficos que você irá explicar em cada slide;
-- olhe e aproveite bons exemplos de outras apresentações! ;-)
+    - **destaque colunas ou linhas da tabela** que você irá explicar em cada slide;<br>
+    - **destaque as partes das imagens** que você irá explicar em cada slide;
+- utilize técnicas simples para **apresentar imagens de forma gradual e progressiva** (e.g., um retângulo branco para cobrir partes da imagem que não serão explicadas no slide atual);
+- **destaque** adequadamente os **pontos mais relevantes dos gráficos** que você irá explicar em cada slide;
 
 ## Dicas de preparação
-- visualize a sua apresentação no seu celular a 50cm de distância. Se tudo estiver facilmente legível e compreensível, seus slides estão bem preparados para apresentação em diferentes ambientes e contextos;
+- **visualize** a sua apresentação **no seu celular** a 50cm de distância;
+    - se tudo estiver facilmente legível e compreensível, seus slides estão bem preparados para apresentação em diferentes ambientes e contextos;
+- faça no mínimo uma ou duas **prévias com os co-autores** do trabalho;
+- **treine a apresentação diversas vezes**, o que ajudará o seu cérebro a (a) fixar o conteúdo, (b) ficar mais tranquilo, e (c) criar uma boa sequência para a apresentação.
 
 # Exemplos de Slides 
 
