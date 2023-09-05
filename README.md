@@ -1,6 +1,6 @@
 # WTICG23: Dicas e Exemplos de Slides
 
-Este repositório contém **dicas para uma boa apresentação** e **uma lista de exemplos de slides** / apresentações. Há arquivos PDF, PPTX e/ou link para slides no Google Drive (faça uma cópia e edite rapidamente no seu Google Drive! ;-))
+Este repositório contém **dicas para uma boa apresentação** e **uma lista de exemplos de slides** / apresentações. Há arquivos PDF, PPTX, Template LaTeX e/ou link para slides no Google Drive (faça uma cópia e edite rapidamente no seu Google Drive! ;-))
 . Os exemplos podem ser copiados e utilizados livremente pelos autores do WTICG23!
 
 # Dicas para uma **boa apresentação**
@@ -47,6 +47,7 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 # Exemplos de Slides 
 
 Inspire-se ou copie, adapte e apreveite bons exemplos! ;-)
+
 
 -----------------------------------------------------------------------
 
@@ -95,6 +96,18 @@ Inspire-se ou copie, adapte e apreveite bons exemplos! ;-)
 [[PDF] SBSeg2022_TP_Metodos.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/SBSeg2022_TP_Metodos.pdf)
 
 [[Online no Google Drive] SBSeg2022_TP_Metodos](https://docs.google.com/presentation/d/1pKAk12QZ1jjD8JzGmiyjJ4oXFR4K4wBQgt8YzV6107Y/edit?usp=sharing)<br>
+
+-----------------------------------------------------------------------
+
+[[PDF] Template_LaTeX_IFSClean.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/Template_LaTeX_IFSClean.pdf)
+
+[[Template LaTeX Online] Template_LaTeX_IFSClean](https://github.com/emersonmello/modelos-latex/tree/master/apresentacao/ifsclean)<br>
+
+-----------------------------------------------------------------------
+
+[[PDF] Template_LaTeX_IFSCyan.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/Template_LaTeX_IFSCyan.pdf)
+
+[[Template LaTeX Online] Template_LaTeX_IFSCyan](https://github.com/emersonmello/modelos-latex/tree/master/apresentacao/ifscyan)<br>
 
 -----------------------------------------------------------------------
 
