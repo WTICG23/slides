@@ -9,28 +9,33 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 
 - utilize slides clean, preferencialmente com **fundo branco** e **texto preto**;
 - gaste seu tempo e energia na **qualificação do conteúdo** dos slides;
-- utilize os **slides** apenas como um **guia** para a sua mente e fala;
+- procure utilizar os **slides** apenas como um **guia** para a sua mente e fala;
+- lembre-se sempre de incluir **numeração nos slides**, pois os números facilitam a referência na hora das discussões ou perguntas, por exemplo;
 - faça diversas **iterações de melhoramento e evolução** dos slides. Assim como um bom texto, uma boa apresentação demanda trabalho e ciclos de evolução e melhoramento;
 - olhe e **aproveite bons exemplos** de outras apresentações! ;-) veja os exemplos apresentados no final deste documento;
 - experimente **fugir do clássico** e padrão! ;-) slides / apresentações podem **iniciar com uma ótima motivação e problemática**, isto é, não é necessário iniciar com o clássico slide de roteiro. Muitas vezes, a apresentação fica melhor e mais fluída iniciando imediatamente com a motivação e a caracterização do problema. Veja alguns exemplos no final deste documento. ;-)
 
 ## Dicas de conteúdo
-- **evite texto**, como parágrafos e frases;
+- **evite texto**, como parágrafos e frases:
     - utilize itens curtos, de poucas palavras;
     - os itens são tipicamente apenas um guia para a sua fala;
-- utilize **fontes grandes** 
+- utilize **fontes grandes**:
     - preferencialmente **24pt ou mais no conteúdo** dos slides, imagens e tabelas;
     - procure utilizar títulos com 32pt ou mais nos slides; 
 - utilize sempre que possível **boas imagens**, isto é, imagens significativas, representativas e de **boa qualidade**;
 - inclua preferencialmente apenas **imagens vetoriais** ou de **alta definição** (e.g., SVG, PNG, PDF);
-- reconstrua as tabelas do texto e apresente **tabelas de alta qualidade** e fácil visualização nos slides;
-- apresente tabelas e imagens **de forma progressiva** nos slides;
+- procure reconstruir as tabelas do texto e apresente **tabelas de alta qualidade** e fácil visualização nos slides;
+    - lembre-se também que nem sempre é necessário apresentar a tabela completa nos slides;
+    - quando a tabela é grande ou complexa, procure apresenter uma versão reduzida, contendo apenas os dados mais relevantes/significativos nos slides;
+- procure apresentar tabelas e imagens **de forma progressiva** nos slides;
     - **destaque colunas ou linhas da tabela** que você irá explicar em cada slide;
     - **destaque as partes das imagens** que você irá explicar em cada slide;
-- utilize técnicas simples para **apresentar imagens de forma gradual e progressiva** (e.g., um retângulo branco para cobrir partes da imagem que serão explicadas nos slides seguintes);
+- utilize técnicas simples para **apresentar imagens de forma gradual e progressiva** (e.g., um simples retângulo branco (ou parcialmente transparente) para cobrir partes da imagem que serão explicadas nos slides seguintes);
+    - técnicas simples podem poupar o seu tempo na hora de construir os slides;
 - **destaque** adequadamente os **pontos mais relevantes dos gráficos** que você irá explicar em cada slide;
-- não é obrigatório ter título em todos os slides (e.g., eventualmente, é mais interessante aumentar o tamanho da imagem ou da tabela, ocupando todo o espaço disponível no slide);
-    - ótima apresentação e visualização das imagens e tabelas é mais importante que um título no slide;
+- lembre-se que não é obrigatório ter título em todos os slides:
+    - eventualmente, é mais interessante aumentar o tamanho da imagem ou da tabela, ocupando todo o espaço disponível no slide;
+    - uma ótima apresentação e visualização das imagens e tabelas é mais importante que um título no slide;
 - **evite poluir o slide**, isto é, muito conteúdo (e.g., muito texto ou imagem/tabela complexa). Por exemplo, uma imagem complexa, apresentada em um único slide, pode dificultar a atenção e o acompanhamento da explicação por parte do público. É muito importante selecionar o conteúdo que será apresentado em cada slide. Menos conteúdo ou um bom destaque do que está sendo explicado é geralmente melhor.
 
 ## Dicas de preparação
@@ -41,7 +46,7 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 
 # Exemplos de Slides 
 
-Copie, adapte e apreveite bons exemplos! ;-)
+Inspire-se, copie, adapte e apreveite bons exemplos! ;-)
 
 -----------------------------------------------------------------------
 
