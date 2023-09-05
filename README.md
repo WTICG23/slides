@@ -10,6 +10,7 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 - utilize slides clean, preferencialmente com **fundo branco** e **texto preto**;
 - gaste seu tempo e energia na **qualificação do conteúdo** dos slides;
 - procure utilizar os **slides** apenas como um **guia** para a sua mente e fala;
+- treine a sua apresentação para garantir que você vai respeitar o tempo estabelecido pelo evento;
 - lembre-se sempre de incluir **numeração nos slides**, pois os números facilitam a referência na hora das discussões ou perguntas, por exemplo;
 - faça diversas **iterações de melhoramento e evolução** dos slides. Assim como um bom texto, uma boa apresentação demanda trabalho e ciclos de evolução e melhoramento;
 - olhe e **aproveite bons exemplos** de outras apresentações! ;-) veja os exemplos apresentados no final deste documento;
