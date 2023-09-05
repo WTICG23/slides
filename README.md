@@ -46,7 +46,7 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 
 # Exemplos de Slides 
 
-Inspire-se, copie, adapte e apreveite bons exemplos! ;-)
+Inspire-se ou copie, adapte e apreveite bons exemplos! ;-)
 
 -----------------------------------------------------------------------
 
