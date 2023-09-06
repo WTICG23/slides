@@ -45,15 +45,6 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 - faça no mínimo uma ou duas **prévias com os co-autores** do trabalho;
 - **treine a apresentação diversas vezes**, o que ajudará o seu cérebro a (a) fixar o conteúdo, (b) ficar mais tranquilo, e (c) criar uma boa sequência para a apresentação.
 
-# Autores & Colaboradores
-
-## Autores
-- Diego Kreutz
-
-## Colaboradores
-- Émerson Mello
-- Isadora Ferrão
-
 # Exemplos de Slides 
 
 Inspire-se e/ou copie, adapte e apreveite bons exemplos! ;-)
@@ -138,4 +129,8 @@ Inspire-se e/ou copie, adapte e apreveite bons exemplos! ;-)
 [[Online no Google Drive] WRSeg2020_FormsOnline_slides](https://docs.google.com/presentation/d/1vbsQhfqhoV0Wxrv-GUbzCRb5S3C0GffBuLgi9DI7-WQ/edit?usp=sharing)<br>
 
 -----------------------------------------------------------------------
+
+# Autores & Colaboradores
+
+[Autores e Colaboradores]()
 
