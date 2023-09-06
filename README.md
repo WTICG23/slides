@@ -48,11 +48,11 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 # Autores e Colaboradores
 
 ## Autores
-Diego Kreutz
+- Diego Kreutz
 
 ## Colaboradores
-Émerson Melo
-Isadora Ferrão
+- Émerson Mello
+- Isadora Ferrão
 
 # Exemplos de Slides 
 
