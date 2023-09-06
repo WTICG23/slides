@@ -132,5 +132,10 @@ Inspire-se e/ou copie, adapte e apreveite bons exemplos! ;-)
 
 # Autores & Colaboradores
 
-[Autores e Colaboradores]()
+## Autores
+- Diego Kreutz
+
+## Colaboradores
+- Émerson Mello
+- Isadora Ferrão
 
