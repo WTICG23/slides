@@ -45,7 +45,7 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 - faça no mínimo uma ou duas **prévias com os co-autores** do trabalho;
 - **treine a apresentação diversas vezes**, o que ajudará o seu cérebro a (a) fixar o conteúdo, (b) ficar mais tranquilo, e (c) criar uma boa sequência para a apresentação.
 
-# Autores e Colaboradores
+# Autores & Colaboradores
 
 ## Autores
 - Diego Kreutz
