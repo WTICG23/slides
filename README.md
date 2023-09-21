@@ -49,8 +49,17 @@ Este repositório contém **dicas para uma boa apresentação** e **uma lista de
 
 Inspire-se e/ou copie, adapte e apreveite bons exemplos! ;-)
 
-[Exemplos de Slides & Apresentações](https://github.com/WTICG23/slides/blob/main/EXEMPLOS.md)
+[Lista de Exemplos de Slides & Apresentações](https://github.com/WTICG23/slides/blob/main/EXEMPLOS.md)
 
 # Autores & Colaboradores 
 
-[Autores e Colaboradores](https://github.com/WTICG23/slides/blob/main/AUTORES.md)
+## Autores
+- Diego Kreutz
+
+## Colaboradores
+- Émerson Mello
+- Isadora Ferrão
+- Felipe Salles
+- Jessica Sato
+- Felipe Assis
+- Vinícius Rodrigues
