@@ -112,15 +112,15 @@ Inspire-se e/ou copie, adapte e apreveite bons exemplos! ;-)
 
 -----------------------------------------------------------------------
 
-[[PDF] WRSeg2018_iDVVs_OpenSGX_slides.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WRSeg2018_iDVVs_OpenSGX_slides.pdf)
-
-[[PPTX] WRSeg2018_iDVVs_OpenSGX_slides.pptx](https://github.com/WTICG23/slides/blob/main/arquivos/WRSeg2018_iDVVs_OpenSGX_slides.pptx)
-
------------------------------------------------------------------------
-
 [[PDF] WRSeg2018_SeguraAi_slides.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WRSeg2018_SeguraAi_slides.pdf)
 
 [[PPTX] WRSeg2018_SeguraAi_slides.pptx](https://github.com/WTICG23/slides/blob/main/arquivos/WRSeg2018_SeguraAi_slides.pptx)
+
+-----------------------------------------------------------------------
+
+[[PDF] WRSeg2018_iDVVs_OpenSGX_slides.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WRSeg2018_iDVVs_OpenSGX_slides.pdf)
+
+[[PPTX] WRSeg2018_iDVVs_OpenSGX_slides.pptx](https://github.com/WTICG23/slides/blob/main/arquivos/WRSeg2018_iDVVs_OpenSGX_slides.pptx)
 
 -----------------------------------------------------------------------
 
@@ -130,6 +130,25 @@ Inspire-se e/ou copie, adapte e apreveite bons exemplos! ;-)
 
 -----------------------------------------------------------------------
 
+[[PDF] WTICG2023_Aplicacao.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_Aplicacao.pdf)
+
+[[Online no Google Drive] WTICG2023_Aplicacao](https://docs.google.com/presentation/d/1EXBoJKjwp42KgfiT_6paA6jrefiGipBpwocPAfm8Vek/edit?usp=sharing)<br>
+
+-----------------------------------------------------------------------
+
+[[PDF] WTICG2023_Modelagem.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_Modelagem.pdf)
+
+[[Online no Google Drive] WTICG2023_Modelagem](https://docs.google.com/presentation/d/1fWicmTVzpwGuy5hb-P02ntDuSAum3HvyRHkOgBTt62M/edit?usp=sharing)<br>
+
+-----------------------------------------------------------------------
+
+[[PDF] WTICG2023_SecFlow.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_SecFlow.pdf)
+
+[[PPTX] WTICG2023_SecFlow.pptx](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_SecFlow.pptx)
+
+-----------------------------------------------------------------------
+
+
 # Autores & Colaboradores
 
 ## Autores
@@ -138,4 +157,6 @@ Inspire-se e/ou copie, adapte e apreveite bons exemplos! ;-)
 ## Colaboradores
 - Émerson Mello
 - Isadora Ferrão
-
+- Felipe Salles
+- Jessica Sato
+- Felipe Assis
