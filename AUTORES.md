@@ -1,4 +1,3 @@
-
 # Autores & Colaboradores
 
 ## Autores
@@ -10,4 +9,4 @@
 - Felipe Salles
 - Jessica Sato
 - Felipe Assis
-
+- Vinícius Rodrigues
