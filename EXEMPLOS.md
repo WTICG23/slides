@@ -79,9 +79,21 @@
 
 -----------------------------------------------------------------------
 
+[[PDF] WTICG2023_Analise.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_Analise.pdf)
+
+[[Template LaTeX] WTICG2023_Analise.zip](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_Analise.zip)<br>
+
+-----------------------------------------------------------------------
+
 [[PDF] WTICG2023_Aplicacao.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_Aplicacao.pdf)
 
 [[Online no Google Drive] WTICG2023_Aplicacao](https://docs.google.com/presentation/d/1EXBoJKjwp42KgfiT_6paA6jrefiGipBpwocPAfm8Vek/edit?usp=sharing)<br>
+
+-----------------------------------------------------------------------
+
+[[PDF] WTICG2023_Impacto.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_Impacto.pdf)
+
+[[Canvas Online] WTICG2023_Impacto](https://www.canva.com/design/DAFvMVTenPc/zcpCcXwYItL9Ua6_GcPTEA/edit?utm_content=DAFvMVTenPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
 
 -----------------------------------------------------------------------
 
@@ -94,12 +106,6 @@
 [[PDF] WTICG2023_SecFlow.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_SecFlow.pdf)
 
 [[PPTX] WTICG2023_SecFlow.pptx](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_SecFlow.pptx)<br>
-
------------------------------------------------------------------------
-
-[[PDF] WTICG23_Analise.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG23_Analise.pdf)
-
-[[Template LaTeX] WTICG23_Analise.zip](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG23_Analise.zip)<br>
 
 -----------------------------------------------------------------------
 
