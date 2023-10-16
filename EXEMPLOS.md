@@ -49,6 +49,12 @@
 
 -----------------------------------------------------------------------
 
+[[PDF] SBSeg2023_SF_AMGenerator_AMExplorer.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/SBSeg2023_SF_AMGenerator_AMExplorer.pdf)
+
+[[Online no Google Drive] SBSeg2023_SF_AMGenerator_AMExplorer](https://docs.google.com/presentation/d/1M2BGgAX3mReA45mt-lA-X_MMhS12rnBwwP0dZaHAEtg/edit?usp=sharing)<br>
+
+-----------------------------------------------------------------------
+
 [[PDF] Template_LaTeX_IFSClean.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/Template_LaTeX_IFSClean.pdf)
 
 [[Template LaTeX Online] Template_LaTeX_IFSClean](https://github.com/emersonmello/modelos-latex/tree/master/apresentacao/ifsclean)<br>
