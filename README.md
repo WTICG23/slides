@@ -58,8 +58,9 @@ Inspire-se e/ou copie, adapte e apreveite bons exemplos! ;-)
 
 ## Colaboradores
 - Émerson Mello
-- Isadora Ferrão
-- Felipe Salles
-- Jessica Sato
 - Felipe Assis
+- Felipe Salles
+- Isadora Ferrão
+- Jessica Sato
+- João Otávio Chervinski
 - Vinícius Rodrigues
