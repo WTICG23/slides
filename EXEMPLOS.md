@@ -1,6 +1,12 @@
 
 -----------------------------------------------------------------------
 
+[[PDF] DSN2023_IBC_Performance.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/DSN2023_IBC_Performance.pdf)
+
+[[Online no Google Drive] DSN2023_IBC_Performance](https://docs.google.com/presentation/d/19LPt-TtQd1kW6jJs2Pc3OvvAID8TBxe_eWrtX3apOj8/edit?usp=sharing)<br>
+
+-----------------------------------------------------------------------
+
 [[PDF] SBRC2020_HTTPS_BR_slides.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/SBRC2020_HTTPS_BR_slides.pdf)
 
 [[Online no Google Drive] SBRC2020_HTTPS_BR_slides](https://docs.google.com/presentation/d/1QsYGWj9HR1miHT3XRNZ_pjNl_Q1257fx0LaQ-Dyk0Bk/edit?usp=sharing)<br>
