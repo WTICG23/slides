@@ -91,6 +91,24 @@
 
 -----------------------------------------------------------------------
 
+[[PDF] WRSeg2023_AutoDroid.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WRSeg2023_AutoDroid.pdf)
+
+[[Online no Google Drive] WRSeg2023_AutoDroid](https://docs.google.com/presentation/d/1ah2KdUhd5a_zl4VTv6faa15Mw2SQYHAAA02z5gu5Cbo/edit?usp=sharing)<br>
+
+-----------------------------------------------------------------------
+
+[[PDF] WRSeg2023_FS3Ev2.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WRSeg2023_FS3Ev2.pdf)
+
+[[Online no Google Drive] WRSeg2023_FS3Ev2](https://docs.google.com/presentation/d/1-yXQvob9LFjpfFxu-esFQtdHVz0I_5rpvdHqvQePZ0A/edit?usp=sharing)<br>
+
+-----------------------------------------------------------------------
+
+[[PDF] WRSeg2023_eWebAPI.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WRSeg2023_eWebAPI.pdf)
+
+[[Online no Google Drive] WRSeg2023_eWebAPI](https://docs.google.com/presentation/d/1l6E_yoKStjyofu6rHMSomtKBUNJKWrlcY9XrJhcJAyY/edit?usp=sharing)<br>
+
+-----------------------------------------------------------------------
+
 [[PDF] WTICG2023_Analise.pdf](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_Analise.pdf)
 
 [[Template LaTeX] WTICG2023_Analise.zip](https://github.com/WTICG23/slides/blob/main/arquivos/WTICG2023_Analise.zip)<br>
